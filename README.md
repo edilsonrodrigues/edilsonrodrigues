@@ -20,8 +20,8 @@
 <p align="left">
   🚀 Entre em contato
   <br /><br />
-  <a href="#" title="Gmail">
+  <a href="edilsonsrj@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=edilsonsrj@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/edilsonsrj/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilsonsrj/" alt="LinkedIn"/></a>
 </p>
